@@ -1,5 +1,9 @@
 # Animation-JAVA-
+A short animation made by java
+## Tools
 JFrame
+## Features:
+Play, Pause and Rewind functions
 
 <img src="examples/1.gif">
 
