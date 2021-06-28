@@ -8,7 +8,7 @@ JFrame
 ## Video Link
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/yt.png">
+    <a href="https://www.youtube.com/watch?v=fKMDz41g9TI" target="_blank"><img src="examples/yt.png">
   </a>
   </kbd>
 </p>
